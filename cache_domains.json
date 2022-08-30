@@ -68,6 +68,11 @@
 			"domain_files": ["pathofexile.txt"]
 		},
 		{
+			"name": "pubgmobile",
+			"description": "CDN for PUBG Mobile",
+			"domain_files": ["pubgmobile.txt"]
+		},
+		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
 			"domain_files": ["renegadex.txt"]
@@ -81,11 +86,6 @@
 			"name": "rockstar",
 			"description": "CDN for rockstar games",
 			"domain_files": ["rockstar.txt"]
-		},
-		{
-			"name": "shopee",
-			"description": "CDN for shopee",
-			"domain_files": ["shopee.txt"]
 		},
 		{
 			"name": "sony",
