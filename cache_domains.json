@@ -88,6 +88,11 @@
 			"domain_files": ["rockstar.txt"]
 		},
 		{
+			"name": "shopee",
+			"description": "CDN for Shopee ID",
+			"domain_files": ["shopee.txt"]
+		},
+		{
 			"name": "sony",
 			"description": "CDN for sony / playstation",
 			"domain_files": ["sony.txt"]
