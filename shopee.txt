@@ -1,5 +1,3 @@
-play-ws.vod.shopee.com
-play-aka.vod.shopee.com
-play-src.vod.shopee.com
-vod.sp-cdn.shopee.com
+*.vod.shopee.com
+*.vod.sp-cdn.shopee.com
 img.sp.mms.shopee.sg
