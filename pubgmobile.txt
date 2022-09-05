@@ -1,1 +1,2 @@
 *.gjacky.com
+pubgmobile.com.cdn.ettdnsv.com
