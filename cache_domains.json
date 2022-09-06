@@ -6,6 +6,11 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
+			"name": "arkgamesglobal",
+			"description": "CDN for Ark Games Global",
+			"domain_files": ["arkgamesglobal.txt"]
+		},
+		{
 			"name": "blackdesertm",
 			"description": "CDN for Black Desert Mobile",
 			"domain_files": ["blackdesertm.txt"]
