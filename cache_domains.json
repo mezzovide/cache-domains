@@ -46,11 +46,6 @@
 			"domain_files": ["leagueofangels.txt"]
 		},
 		{
-			"name": "lineage2r",
-			"description": "CDN for Lineage 2: Revolution",
-			"domain_files": ["l2r.txt"]
-		},
-		{
 			"name": "mobilelegends",
 			"description": "CDN for Mobile Legends",
 			"domain_files": ["mobilelegends.txt"]
