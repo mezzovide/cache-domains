@@ -6,6 +6,11 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
+			"name": "blackdesertm",
+			"description": "CDN for Black Desert Mobile",
+			"domain_files": ["blackdesertm.txt"]
+		},
+		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
