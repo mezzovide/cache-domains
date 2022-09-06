@@ -1,1 +1,3 @@
 cdn-wx-studio.gtarcade.com
+cdn-wx-studio.gtarcade.com.s169.net
+game-static.gtarcade.com.edgekey.net
