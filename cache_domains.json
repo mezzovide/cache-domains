@@ -51,6 +51,11 @@
 			"domain_files": ["mobilelegends.txt"]
 		},
 		{
+			"name": "netmarble",
+			"description": "Netmarble Content",
+			"domain_files": ["netmarble.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
