@@ -1,1 +1,3 @@
 sgimage.netmarble.com
+sgimage.netmarble.com.akadns.net
+sgimage.netmarble.com.edgesuite.net
