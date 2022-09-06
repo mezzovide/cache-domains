@@ -36,6 +36,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "leagueofangels",
+			"description": "CDN for League of Angels",
+			"domain_files": ["leagueofangels.txt"]
+		},
+		{
 			"name": "lineage2r",
 			"description": "CDN for Lineage 2: Revolution",
 			"domain_files": ["l2r.txt"]
