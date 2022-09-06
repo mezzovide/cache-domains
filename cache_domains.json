@@ -36,9 +36,14 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
-			"name": "moonton",
-			"description": "CDN for Moonton/Mobile Legends",
-			"domain_files": ["moonton.txt"]
+			"name": "lineage2r",
+			"description": "CDN for Lineage 2: Revolution",
+			"domain_files": ["l2r.txt"]
+		},
+		{
+			"name": "mobilegends",
+			"description": "CDN for Mobile Legends",
+			"domain_files": ["mobilelegends.txt"]
 		},
 		{
 			"name": "nexusmods",
