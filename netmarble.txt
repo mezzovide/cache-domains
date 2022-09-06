@@ -1,3 +1,7 @@
 sgimage.netmarble.com
 sgimage.netmarble.com.akadns.net
 sgimage.netmarble.com.edgesuite.net
+*.gcdn.netmarble.com
+*.gcdn.netmarblegeo.akadns.net
+*.gcdn.netmarble.com.akadns.net  
+*.gcdn.netmarble.com.edgesuite.net
