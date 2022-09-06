@@ -41,7 +41,7 @@
 			"domain_files": ["l2r.txt"]
 		},
 		{
-			"name": "mobilegends",
+			"name": "mobilelegends",
 			"description": "CDN for Mobile Legends",
 			"domain_files": ["mobilelegends.txt"]
 		},
