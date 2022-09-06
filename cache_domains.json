@@ -118,6 +118,11 @@
 			"domain_files": ["square.txt"]
 		},
 		{
+			"name": "starmaker",
+			"description": "CDN for StarMaker: Sing and Play",
+			"domain_files": ["starmaker.txt"]
+		},
+		{
 			"name": "steam",
 			"description": "CDN for steam platform",
 			"domain_files": ["steam.txt"]
