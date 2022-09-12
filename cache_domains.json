@@ -46,6 +46,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "higgsdomino",
+			"description": "CDN for Higgs Domino",
+			"domain_files": ["higgsdominotxt"]
+		},
+		{
 			"name": "leagueofangels",
 			"description": "CDN for League of Angels",
 			"domain_files": ["leagueofangels.txt"]
@@ -103,6 +108,16 @@
 			"domain_files": ["riot.txt"]
 		},
 		{
+			"name": "riseofempires",
+			"description": "CDN for Rise of Empires",
+			"domain_files": ["riseofempires.txt"]
+		},
+		{
+			"name": "riseofkingdoms",
+			"description": "CDN for Rise of Kingdoms",
+			"domain_files": ["riseofkingdoms.txt"]
+		},
+		{
 			"name": "rockstar",
 			"description": "CDN for rockstar games",
 			"domain_files": ["rockstar.txt"]
@@ -126,6 +141,11 @@
 			"name": "starmaker",
 			"description": "CDN for StarMaker: Sing and Play",
 			"domain_files": ["starmaker.txt"]
+		},
+		{
+			"name": "stateofsurvival",
+			"description": "CDN for State of Survival",
+			"domain_files": ["stateofsurvival.txt"]
 		},
 		{
 			"name": "steam",
