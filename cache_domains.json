@@ -48,7 +48,7 @@
 		{
 			"name": "higgsdomino",
 			"description": "CDN for Higgs Domino",
-			"domain_files": ["higgsdominotxt"]
+			"domain_files": ["higgsdomino.txt"]
 		},
 		{
 			"name": "leagueofangels",
