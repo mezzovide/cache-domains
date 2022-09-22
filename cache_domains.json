@@ -50,6 +50,11 @@
 			"description": "CDN for Higgs Domino",
 			"domain_files": ["higgsdomino.txt"]
 		},
+                {
+                        "name": "iqiyi",
+                        "description": "CDN for iQIYI",
+                        "domain_files": ["iqiyi.txt"]
+                },
 		{
 			"name": "leagueofangels",
 			"description": "CDN for League of Angels",
@@ -177,6 +182,26 @@
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
 		},
+                {
+			"name": "adobe",
+			"description": "Adobe Updates",
+			"domain_files": ["adobe.txt"]
+		},
+                {
+			"name": "msoffice",
+			"description": "Microsoft Office CDN",
+			"domain_files": ["msoffice.txt"]
+		},
+                {
+                        "name": "debian",
+                        "description": "Debian Repo",
+                        "domain_files": ["debian.txt"]
+                },
+                {
+                        "name": "ubuntu",
+                        "description": "Ubuntu Repo",
+                        "domain_files": ["ubuntu.txt"]
+                },
 		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
