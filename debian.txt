@@ -1,2 +1,0 @@
-deb.debian.org
-security.debian.org
