@@ -11,11 +11,6 @@
 			"domain_files": ["arkgamesglobal.txt"]
 		},
 		{
-			"name": "blackdesertm",
-			"description": "CDN for Black Desert Mobile",
-			"domain_files": ["blackdesertm.txt"]
-		},
-		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
@@ -50,11 +45,6 @@
 			"description": "CDN for Higgs Domino",
 			"domain_files": ["higgsdomino.txt"]
 		},
-                {
-                        "name": "iqiyi",
-                        "description": "CDN for iQIYI",
-                        "domain_files": ["iqiyi.txt"]
-                },
 		{
 			"name": "leagueofangels",
 			"description": "CDN for League of Angels",
