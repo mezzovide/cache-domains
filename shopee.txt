@@ -1,3 +1,0 @@
-*.vod.shopee.com
-vod.sp-cdn.shopee.com
-img.sp.mms.shopee.sg
