@@ -3,6 +3,7 @@ basedir=".."
 outputdir="output/mikrotik"
 path="${basedir}/cache_domains.json"
 outputfile="${outputdir}/mikrotik_dns_static_entries.rsc"
+ttl=60  # Default TTL in seconds (1 hour)
 
 export IFS=' '
 
@@ -77,7 +78,7 @@ while read entry; do
                 fi
 
                 for i in ${cacheip}; do
-                    echo "/ip dns static add name=${parsed} address=${i} ${match_subdomains}" >> $outputfile
+                    echo "/ip dns static add name=${parsed} address=${i} ttl=${ttl} ${match_subdomains}" >> $outputfile
                 done
 
                 processed_domains[$parsed]=1
