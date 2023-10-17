@@ -59,9 +59,9 @@ while read entry; do
                     continue
                 fi
 
-                match_subdomains=""
+                match_subdomain=""
                 if [[ $fileentry == \*.* ]]; then
-                    match_subdomains="match-subdomains=yes"
+                    match_subdomain="match-subdomain=yes"
                     parsed=$(echo $fileentry | sed -e "s/^\*\.//")
                 else
                     parsed=$fileentry
@@ -70,7 +70,7 @@ while read entry; do
                 # Check if the domain was already processed
                 if [[ ${processed_domains[$parsed]+_} ]]; then
                     # If we're now processing the wildcard version, remove the previous non-wildcard entry
-                    if [[ $match_subdomains == "match-subdomains=yes" ]]; then
+                    if [[ $match_subdomain == "match-subdomain=yes" ]]; then
                         sed -i "/\/ip dns static add name=${parsed} /d" $outputfile
                     else
                         continue
@@ -78,7 +78,7 @@ while read entry; do
                 fi
 
                 for i in ${cacheip}; do
-                    echo "/ip dns static add name=${parsed} address=${i} ttl=${ttl} ${match_subdomains}" >> $outputfile
+                    echo "/ip dns static add name=${parsed} address=${i} ttl=${ttl} ${match_subdomain}" >> $outputfile
                 done
 
                 processed_domains[$parsed]=1
