@@ -88,11 +88,6 @@
 			"domain_files": ["pathofexile.txt"]
 		},
 		{
-			"name": "renegadex",
-			"description": "CDN for Renegade X",
-			"domain_files": ["renegadex.txt"]
-		},
-		{
 			"name": "riot",
 			"description": "CDN for riot games",
 			"domain_files": ["riot.txt"]
