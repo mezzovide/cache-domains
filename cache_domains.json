@@ -88,11 +88,6 @@
 			"domain_files": ["pathofexile.txt"]
 		},
 		{
-			"name": "pubgmobile",
-			"description": "CDN for PUBG Mobile",
-			"domain_files": ["pubgmobile.txt"]
-		},
-		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
 			"domain_files": ["renegadex.txt"]
@@ -108,11 +103,6 @@
 			"domain_files": ["riseofempires.txt"]
 		},
 		{
-			"name": "riseofkingdoms",
-			"description": "CDN for Rise of Kingdoms",
-			"domain_files": ["riseofkingdoms.txt"]
-		},
-		{
 			"name": "rockstar",
 			"description": "CDN for rockstar games",
 			"domain_files": ["rockstar.txt"]
@@ -126,11 +116,6 @@
 			"name": "square",
 			"description": "CDN for Final Fantasy XIV",
 			"domain_files": ["square.txt"]
-		},
-		{
-			"name": "starmaker",
-			"description": "CDN for StarMaker: Sing and Play",
-			"domain_files": ["starmaker.txt"]
 		},
 		{
 			"name": "stateofsurvival",
