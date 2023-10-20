@@ -4,3 +4,6 @@ m.ykimg.com
 cdn.ynuf.aliapp.org
 sub.ykimg.com
 valipl.cp31.ott.cibntv.net
+valipl-vip.cp31.ott.cibntv.net
+f-vali.cp31.ott.cibntv.net
+vali.cp31.ott.cibntv.net
