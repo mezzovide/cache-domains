@@ -142,6 +142,11 @@
 			"description": "CDN for wargaming.net",
 			"domain_files": ["wargaming.net.txt"]
 		},
+                {
+                        "name": "wetv",
+                        "description": "wetv",
+                        "domain_files": ["wetv.txt"]
+                },
 		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
