@@ -151,6 +151,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
-		}
+		},
+                {
+                        "name": "youku",
+                        "description": "youku",
+                        "domain_files": ["youku.txt"]
+                }
 	]
 }
